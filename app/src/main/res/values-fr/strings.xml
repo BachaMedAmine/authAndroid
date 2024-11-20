@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id">776445557487-v8tn5ljgb5d3t6823tc83i87nkjv6b6q.apps.googleusercontent.com</string>
+    <string name="app_name">Auth</string>
+    <string name="welcome_back">Bienvenue 👋</string>
+    <string name="to_ova">à  </string>
+    <string name="ova">OVA</string>
+    <string name="login_prompt">Connectez-vous à votre compte </string>
+    <string name="email_hint">Adresse e-mail</string>
+    <string name="password_hint">Mot de passe</string>
+    <string name="forgot_password">Mot de passe oublié ?</string>
+    <string name="login_button">Se connecter</string>
+    <string name="or_continue_with">Ou continuez avec un compte social</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="no_account_prompt">Vous n avez pas de compte ?</string>
+    <string name="signup">  S inscrire</string>
+</resources>
